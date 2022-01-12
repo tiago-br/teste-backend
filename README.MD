@@ -1,6 +1,6 @@
 ## DESAFIO TÉCNICO - BACKEND - Tiago Rebelato
 
-## Passo 1 - Instalação dos pacotes:
+### Passo 1 - Instalação dos pacotes:
 ~~~nodejs
  npm install
 ~~~
@@ -33,7 +33,7 @@
 <hr></hr>
 
 ### Rotas:
-<hr></hr>
+
 
 #### Rotas públicas:
 
