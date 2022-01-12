@@ -19,7 +19,7 @@
 <hr></hr>
 
 ### Passo 3 - Iniciando a aplicação:
-
+##### Após iniciar a aplicação, uma tabela chamada **Usuario** será criada na **database** que foi feita anteriormente.
 ~~~nodejs
  npm start
 ~~~
@@ -28,7 +28,7 @@
  yarn start
 ~~~
 
-#### Após iniciar a aplicação, uma tabela chamada **Usuario** será criada na **database** que foi feita anteriormente.
+
 
 <hr></hr>
 
