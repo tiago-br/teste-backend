@@ -1,4 +1,4 @@
-## DESAFIO TÉCNICO - BACKEND - Tiago Rebelato
+## DESAFIO TÉCNICO - BACKEND
 
 ### Passo 1 - Instalação dos pacotes:
 ~~~nodejs
